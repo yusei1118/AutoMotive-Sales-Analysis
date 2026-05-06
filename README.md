@@ -637,6 +637,7 @@ Color analysis showed a shift from rare colors commanding premium prices in earl
 The dashboard also revealed that consumer sensitivity toward vehicle mileage became significantly stronger after 2010, especially for luxury vehicles.
 
 Overall, this project demonstrates how macroeconomic conditions, mileage, geography, vehicle type, brand perception, and changing consumer behavior interact to influence automotive pricing and profitability.
+
 ---
 
 # Author
