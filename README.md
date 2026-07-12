@@ -1,6 +1,7 @@
 # Automotive Sales Analysis Dashboard
 
-<img width="1241" height="826" alt="AutoMotiveAnalysis" src="https://github.com/user-attachments/assets/241ef160-ff54-4431-86b0-4d321a36e1da" />
+<img width="2194" height="1381" alt="Make (1)" src="https://github.com/user-attachments/assets/c4d896d8-7788-4085-8858-7620e951e012" />
+
 
 
 ## Overview
